@@ -50,7 +50,7 @@ Where:
 ##### *LED Statues*:
     
 | Value  | Red light | Yellow light | Green light |
-| ------------- || ------------- |:-------------:|
+| ------------- || ------------- | ------------- :-------------:|
 | 0  | TURN OFF | TURN OFF  | TURN OFF  |
 | 1  | TURN OFF | TURN OFF  | TURN ON  |
 | 2  | TURN OFF | TURN ON  | TURN OFF  |
