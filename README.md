@@ -49,16 +49,7 @@ Where:
 
 ##### *LED Statues*:
     
-| Value  | Red light | Yellow light | Green light |
-| ------------- || ------------- | ------------- :-------------:|
-| 0  | TURN OFF | TURN OFF  | TURN OFF  |
-| 1  | TURN OFF | TURN OFF  | TURN ON  |
-| 2  | TURN OFF | TURN ON  | TURN OFF  |
-| 3  | TURN OFF | TURN ON  | TURN ON  |
-| 4  | TURN ON | TURN OFF  | TURN OFF  |
-| 5  | TURN ON | TURN OFF  | TURN ON  |
-| 6  | TURN ON | TURN ON  | TURN OFF  |
-| 7  | TURN ON | TURN ON  | TURN ON  |
+![states table ](img/tableStates.png "")
 
 #### __Check LED's status__:
 `http://IP:5108/led/checkstatus`
