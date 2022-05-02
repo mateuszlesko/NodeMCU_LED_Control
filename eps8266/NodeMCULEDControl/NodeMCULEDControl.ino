@@ -6,8 +6,8 @@
 #define Y 4 // PIN D2
 #define G 2 // PIN D4
 
-const char* ssid = "WIN-ILJ19ME9CK1 1962";
-const char* password = "94Q/72v1";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxx";
 
 const String serverName = "http://192.168.100.132:5108/led/checkstatus";
 
